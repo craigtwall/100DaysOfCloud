@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Craig Wall's Cloud Journey
 
-[✍️ Introduce yourself]
+I'm Craig Wall, a Public Sector Systems Administrator currently working at Rutgers University. 
 
-[✍️ Tell us why you started this challenge]
+I started this journey to help focus my learning as I push to certify my cloud administration skills. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+By the time I finish this challenge, I would like to take and pass the AZ-104 and be on my way towards the AZ-500.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Craig's Twitter](https://twitter.com/craigtwall)
+- [Craig's LinkedIn](https://www.linkedin.com/in/craigtwall)
 
 ## Stepping out the door
 
