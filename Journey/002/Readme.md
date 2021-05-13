@@ -30,4 +30,4 @@ I set a $5 budget on the account, with an alert once it hits 50% of that amount,
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[Tweet](link)
+[Tweet](https://twitter.com/craigtwall/status/1392656030887301122)
