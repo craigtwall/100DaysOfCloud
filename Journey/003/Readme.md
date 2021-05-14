@@ -1,49 +1,25 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Deploy SCCM Via Azure QuickStart Template
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+This was a short-duration setup day towards future testing. I discovered Azure Quickstart Templates, and wanted to know if the SCCM Current Branch template would work in the A Cloud Guru Azure Cloud Sandbox. 
 
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+This would not only allow me a short-duration SCCM test environment, but would also give me insight into what in Azure would be necessary to stand that infrastructure up. 
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- [Install Configuration Manager Current Branch in Azure](https://azure.microsoft.com/en-us/resources/templates/sccm-currentbranch/) -- This was the Quickstart Template in question. 
 
-## Try yourself
+## What Does the Quickstart Template Install?
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- AD Domain Controller (domain: contoso.com)
+- 4 or 5 Virtual Machines, including the Domain Controller, the ConfigMgr primary site server, a remote site server, and one VM to act as an SCCM client
+- Each VM has a public IP added to a Network Security Group, which only allows in RDP traffic.
+- Each VM has a private IP so that ConfigMgr can communicate.
 
-### Step 1 — Summary of Step
+Unfortunately, in the time I had today -- roughly an hour -- the VMs and such were setup, but ConfigMgr was not installed on them yet. 
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+The [MS Guide for this template](https://docs.microsoft.com/en-us/mem/configmgr/core/get-started/azure-template) does say it could take 2-4 hours to complete, even after Azure appears to signal that the work is finished. I'll check this later.
 
 ## Social Proof
 
