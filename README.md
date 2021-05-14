@@ -28,8 +28,8 @@ By the time I finish this challenge, I would like to take and pass the AZ-104 an
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [100 Days Setup. AZ-104 Identity](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
+- [ ] ☁️ 2 > [Creating Budget Alerts](Journey/002/Readme.md)
+- [ ] ☁️ 3 > [Deploy SCCM via Azure Quickstart Template](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)

@@ -25,4 +25,4 @@ The [MS Guide for this template](https://docs.microsoft.com/en-us/mem/configmgr/
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Day 3 Tweet](https://twitter.com/craigtwall/status/1393035834719449090)
